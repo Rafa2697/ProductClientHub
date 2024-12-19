@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using ProductClientHub.Communication.Requests;
 
 namespace ProductClientHub.API.Controllers;
 
